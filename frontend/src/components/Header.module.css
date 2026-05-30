@@ -1,0 +1,12 @@
+.headerContainer {
+  border-bottom: 1px solid rgb(206, 206, 206);
+  padding: 8px;
+  position: sticky;
+}
+
+.headerContainer > nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
